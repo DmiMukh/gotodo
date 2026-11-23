@@ -138,7 +138,7 @@ go build -o gotodo .
 golangci-lint run
 ```
 
-Project status
+## Project status **Progress:** ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% (🟩|⬜)
 - [ ] Core commands (add, list, done, rm, clear)
 - [ ]  JSON storage in ~/.gotodo/tasks.json
 - [ ]  Colorful terminal output
