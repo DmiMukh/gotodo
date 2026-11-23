@@ -147,4 +147,7 @@ golangci-lint run
 - [ ]  Clean golangci-lint run
 
 ## 📄 License
-Distributed under the MIT License. See LICENSE for details.
+
+Distributed under the **MIT** License.
+
+See the [LICENSE](LICENSE) file for the full text.
